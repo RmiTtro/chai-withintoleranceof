@@ -2,6 +2,7 @@
 chai-withintoleranceof
 ==============================================================================
 
+[![npm](https://img.shields.io/npm/v/chai-withintoleranceof.svg)](https://github.com/RmiTtro/chai-withintoleranceof)
 
 A chai plugin to assert that a number is within tolerance of an expected value
 
