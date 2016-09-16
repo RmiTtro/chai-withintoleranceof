@@ -1,14 +1,14 @@
 {
   "name": "chai-withintoleranceof",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A chai plugin to assert that a number is within tolerance of an expected value",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/RmiTtro/chai-withintoleranceof.git"
+    "type": "git",
+    "url": "https://github.com/RmiTtro/chai-withintoleranceof.git"
   },
   "keywords": [
     "assertions",
